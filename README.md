@@ -1,6 +1,6 @@
-Indian Institure of Management Amritsar in collaboration with Dingman Center for Entrepreneurship, Robert H. Smith School of Business, University of Maryland organized the 3rd International Conference on Management of MSMEs (ICMM 2024) on the theme: "Transformative Pathways for MSMEs: Shaping the Future". 
+Given the constraints that MSMEs face in this era of disruption and their continued relevance to sustainable development, IIM Amritsar organized the 2nd International Conference on Management of MSME with a theme of Fostering an Innovation Ecosystem (held on 20th – 22nd January 2023 in Amritsar, India_). The conference was a platform to bring together policymakers, professionals, academicians, and researchers to share and discuss the knowledge and research ideas enabling MSMEs to take advantage of various emerging trends.
 
-I authored and presented a research paper titled "An Approach to Automate Vulnerability Assessment and Penetration Testing for Start-ups".
+I authored and presented a research paper titled "An Approach to Automate Vulnerability Assessment and Penetration Testing for Start-ups" and presented at ICMM Conference 2023.
 
 
 Abstract:
